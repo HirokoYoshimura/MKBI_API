@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2013 for Web
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeikoAPI", "MeikoAPI\MeikoAPI.csproj", "{9CE28F2D-C064-4447-B675-6C71A6E2E031}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MKBI_API", "MeikoAPI\MKBI_API.csproj", "{9CE28F2D-C064-4447-B675-6C71A6E2E031}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
